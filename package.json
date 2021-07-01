@@ -1,0 +1,27 @@
+{
+  "name": "awsdemo",
+  "version": "1.0.0",
+  "description": "aws demo",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffidev/awsdemo.git"
+  },
+  "keywords": [
+    "AWS",
+    "demo"
+  ],
+  "author": "FFI Ananthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffidev/awsdemo/issues"
+  },
+  "homepage": "https://github.com/ffidev/awsdemo#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.19.0",
+    "aws-sdk": "^2.935.0"
+  }
+}
